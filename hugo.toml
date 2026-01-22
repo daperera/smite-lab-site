@@ -1,0 +1,4 @@
+baseURL = 'https://daperera.github.io/smite-lab-demo/'
+languageCode = 'en-us'
+title = 'Demo Smite-lab Site'
+theme = "hugo-simple"
