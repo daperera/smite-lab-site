@@ -1,4 +1,4 @@
-baseURL = 'https://daperera.github.io/smite-lab-demo/'
+baseURL = 'https://daperera.github.io/smite-lab-site/'
 languageCode = 'en-us'
 title = 'Demo Smite-lab Site'
 theme = "hugo-simple"
