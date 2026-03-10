@@ -2,3 +2,6 @@ baseURL = 'https://daperera.github.io/smite-lab-site/'
 languageCode = 'en-us'
 title = 'Demo Smite-lab Site'
 theme = "hugo-simple"
+
+[params.author]
+name = "Caio Raposo and David Perera"
