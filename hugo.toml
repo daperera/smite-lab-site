@@ -5,3 +5,18 @@ theme = "hugo-simple"
 
 [params.author]
 name = "Caio Raposo and David Perera"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+[[menu.main]]
+    name = "People"
+    url = "/People/"
+    weight = 20
+
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 30
