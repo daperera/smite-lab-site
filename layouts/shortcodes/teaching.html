@@ -1,0 +1,11 @@
+<ul class="teaching-list">
+  {{ range site.Data.teaching }}
+    <li>
+      <strong>{{ .title }}</strong>:
+      {{ $links := .links }}
+      {{ range $i, $link := $links }}
+        <a href="{{ $link.url }}" target="_blank">{{ $link.label }}</a>{{ if lt $i (sub (len $links) 1) }}, {{ end }}
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

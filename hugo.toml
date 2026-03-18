@@ -14,7 +14,7 @@ name = "Caio Raposo and David Perera"
 
 [[menu.main]]
     name = "About"
-    url = "#about"
+    url = "#top"
     weight = 10
 
 [[menu.main]]
@@ -33,13 +33,8 @@ name = "Caio Raposo and David Perera"
     weight = 40
 
 [[menu.main]]
-    name = "Projects"
-    url = "#projects"
-    weight = 50
-
-[[menu.main]]
-    name = "Teachings"
-    url = "#teachings"
+    name = "Teaching"
+    url = "#teaching"
     weight = 50
 
 [[menu.main]]
@@ -47,4 +42,7 @@ name = "Caio Raposo and David Perera"
     url = "#join"
     weight = 60
 
-
+[[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 70

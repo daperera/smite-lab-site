@@ -1,7 +1,64 @@
+- name: Haniel Barbosa
+  role: Tenured Assistant Professor
+  image: img/team/haniel_barbosa.jpg
+  description: Works on making SMT solvers more trustworthy via the production and checking of proof certificates.
+
+- name: Mallku Soldevila
+  role: Post-doctoral scholar
+  description: Postdoctoral researcher in the group.
+  image: img/team/mallku_soldevila.jpg
+
 - name: David Perera
-  role: Postdoc
-  # image: img/team/david.jpg
+  role: Post-doctoral scholar
+  image: img/team/david_perera.jpg
+  description: Works on SMT solving and machine learning.
+
+- name: Tomaz Mascarenhas
+  role: PhD student
+  description: Works on proof logging and reconstruction for cylindrical algebraic decomposition.
+  image: img/team/tomaz_mascarenhas.jpg
+
+- name: Pedro Saccomani
+  role: PhD student
+  description: Works on finite fields proofs.
+  image: img/team/pedro_saccomani.jpg
 
 - name: Caio Raposo
-  role: PhD
-  # image: img/team/caio.jpg
+  role: PhD student
+  image: img/team/caio_raposo.jpg
+  description: Works on SMT solving and formal methods.
+
+- name: Bruno Andreotti
+  role: MSc student
+  description: Works on small congruence closure proofs, proof checking, and proof elaboration.
+  image: img/team/bruno_andreotti.jpg
+
+- name: Tiago Campos
+  role: MSc student
+  description: Works on proof checking and elaboration for rewriting.
+  image: img/team/tiago_campos.jpg
+
+- name: Eduardo Sandalo Porto
+  role: MSc student
+  description: Master's student in the group.
+  image: img/team/eduardo_sandalo_porto.jpg
+
+- name: José Neto
+  role: Research Engineer
+  description: Research engineer in the group.
+  image: img/team/jose_neto.jpg
+
+- name: Vinicius Gomes
+  role: Undergraduate researcher
+  description: Undergraduate researcher in the group.
+  image: img/team/vinicius_gomes.jpg
+
+- name: Sarah Pereira
+  role: Undergraduate researcher
+  description: Undergraduate researcher in the group.
+  image: img/team/sarah_pereira.jpg
+
+- name: Augusto Mafra
+  role: MSc student (Affiliate member)
+  description: Affiliate member of the group.
+  image: img/team/augusto_mafra.jpg

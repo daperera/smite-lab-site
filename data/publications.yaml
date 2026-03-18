@@ -1,0 +1,183 @@
+- year: 2026
+  papers:
+    - title: "Hint-Based SMT Proof Reconstruction"
+      authors: "Joshua Clune, Haniel Barbosa, Jeremy Avigad"
+      venue: "TACAS 2026, Springer"
+
+    - title: "Reconstruction of SMT proofs with Lambdapi"
+      authors: "Alessio Coltelacci, Bruno Andreotti, Haniel Barbosa, Gilles Dowek, Stephan Merz"
+      venue: "Acta Informatica, 2026"
+
+    - title: "Formalization of a Proof Calculus for Incremental Linearization for Satisfiability Modulo Nonlinear Arithmetic and Transcendental Functions"
+      authors: "Tomaz Mascarenhas, Harun Khan, Abdal Mohamed, Andrew Reynolds, Haniel Barbosa, Clark Barrett, Cesare Tinelli"
+      venue: "CPP 2026"
+
+    - title: "Producing Shorter Congruence Closure Proofs in a State-of-the-Art SMT Solver"
+      authors: "Bruno Andreotti, Haniel Barbosa"
+      venue: "VMCAI 2026"
+
+- year: 2025
+  papers:
+    - title: "Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL"
+      authors: "Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, et al."
+      venue: "ITP 2025"
+
+    - title: "Lean-SMT: An SMT Tactic for Discharging Proof Goals in Lean"
+      authors: "Abdalrhman Mohamed, Tomaz Mascarenhas, Harun Khan, et al."
+      venue: "CAV 2025"
+
+- year: 2024
+  papers:
+    - title: "Satisfiability Modulo Theories: A Beginner's Tutorial"
+      authors: "Clark Barrett, Cesare Tinelli, Haniel Barbosa, et al."
+      venue: "FM 2024 (Tutorial Track)"
+
+    - title: "Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)"
+      authors: "Bruno Andreotti, Haniel Barbosa, Oliver Flatt"
+      venue: "PAAR 2024"
+
+    - title: "IsaRare: Automatic Verification of SMT Rewrites in Isabelle/HOL"
+      authors: "Hanna Lachnitt, Mathias Fleury, Leni Aniva, et al."
+      venue: "TACAS 2024, Springer"
+
+    - title: "26th Brazilian Symposium on Formal Methods (SBMF 2023)"
+      authors: "Haniel Barbosa, Yoni Zohar (eds.)"
+      venue: "LNCS 14414, 2024"
+
+- year: 2023
+  papers:
+    - title: "Generating and Exploiting Automated Reasoning Proof Certificates"
+      authors: "Haniel Barbosa, Clark Barrett, Byron Cook, et al."
+      venue: "Communications of the ACM, 2023"
+
+    - title: "Challenges in SMT Proof Production and Checking for Arithmetic Reasoning"
+      authors: "Haniel Barbosa"
+      venue: "SC-Square@ISSAC 2023"
+
+    - title: "An Interactive SMT Tactic in Coq using Abductive Reasoning"
+      authors: "Haniel Barbosa, Chantal Keller, Andrew Reynolds, et al."
+      venue: "LPAR 2023"
+
+    - title: "Carcara: An efficient proof checker and elaborator for SMT proofs in the Alethe format"
+      authors: "Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa"
+      venue: "TACAS 2023, Springer"
+
+    - title: "Synthesising Programs with Non-trivial Constants"
+      authors: "Alessandro Abate, Haniel Barbosa, Clark Barrett, et al."
+      venue: "Journal of Automated Reasoning, 2023"
+
+    - title: "7th SC-Square Workshop (SC-Square@FLoC 2022)"
+      authors: "Ali Kemal Uncu, Haniel Barbosa (eds.)"
+      venue: "CEUR 3458, 2023"
+
+- year: 2022
+  papers:
+    - title: "Reconstructing Fine-Grained Proofs of Complex Rewrites Using a Domain-Specific Language"
+      authors: "Andres Nötzli, Haniel Barbosa, et al."
+      venue: "FMCAD 2022"
+
+    - title: "Even Faster Conflicts and Lazier Reductions for String Solvers"
+      authors: "Andres Nötzli, Andrew Reynolds, Haniel Barbosa, et al."
+      venue: "CAV 2022"
+
+    - title: "Flexible Proof Production in an Industrial-Strength SMT Solver"
+      authors: "Haniel Barbosa, Andrew Reynolds, Gereon Kremer, et al."
+      venue: "IJCAR 2022"
+
+    - title: "cvc5: A Versatile and Industrial-Strength SMT Solver"
+      authors: "Haniel Barbosa, Clark Barrett, Martin Brain, et al."
+      venue: "TACAS 2022"
+
+- year: 2021
+  papers:
+    - title: "On-Line Synthesis of Parsers for String Events"
+      authors: "João Saffran, Haniel Barbosa, et al."
+      venue: "Journal of Computer Languages, 2021"
+
+    - title: "Fair and Adventurous Enumeration of Quantifier Instantiations"
+      authors: "Mikoláš Janota, Haniel Barbosa, Pascal Fontaine, Andrew Reynolds"
+      venue: "FMCAD 2021"
+
+    - title: "Alethe: Towards a Generic SMT Proof Format"
+      authors: "Hans-Jörg Schurr, Mathias Fleury, Haniel Barbosa, Pascal Fontaine"
+      venue: "PxTP 2021"
+
+- year: 2020
+  papers:
+    - title: "Scalable Algorithms for Abduction via Enumerative Syntax-Guided Synthesis"
+      authors: "Andrew Reynolds, Haniel Barbosa, et al."
+      venue: "IJCAR 2020"
+
+    - title: "Sintetizador de Gramáticas para Obfuscação de Dados em Sistemas de Logs"
+      authors: "João Saffran, Fernando Magno Quintão Pereira, Haniel Barbosa"
+      venue: "SBSeg 2020"
+
+    - title: "Lifting congruence closure with free variables to lambda-free higher-order logic via SAT encoding"
+      authors: "Sophie Tourret, Pascal Fontaine, et al."
+      venue: "SMT@IJCAR"
+
+    - title: "Scalable fine-grained proofs for formula processing"
+      authors: "Haniel Barbosa, Jasmin Blanchette, Mathias Fleury, Pascal Fontaine"
+      venue: "Journal of Automated Reasoning, 2020"
+
+- year: 2019
+  papers:
+    - title: "Extending enumerative function synthesis via SMT-driven classification"
+      authors: "Haniel Barbosa, Andrew Reynolds, et al."
+      venue: "FMCAD 2019"
+
+    - title: "Extending SMT solvers to higher-order logic"
+      authors: "Haniel Barbosa, Andrew Reynolds, et al."
+      venue: "CADE 2019"
+
+    - title: "Sixth Workshop on Proof eXchange for Theorem Proving (PxTP 2019)"
+      authors: "Giselle Reis, Haniel Barbosa (eds.)"
+      venue: ""
+
+    - title: "CVC4Sy: Smart and Fast Term Enumeration for Syntax-Guided Synthesis"
+      authors: "Andrew Reynolds, Haniel Barbosa, et al."
+      venue: "CAV 2019"
+
+    - title: "Syntax-Guided Rewrite Rule Enumeration for SMT Solvers"
+      authors: "Andres Nötzli, Andrew Reynolds, et al."
+      venue: "SAT 2019"
+
+    - title: "Better SMT proofs for easier reconstruction"
+      authors: "Haniel Barbosa, Jasmin Blanchette, et al."
+      venue: "AITP 2019"
+
+- year: 2018
+  papers:
+    - title: "Datatypes with shared selectors"
+      authors: "Andrew Reynolds, Haniel Barbosa, et al."
+      venue: "IJCAR 2018"
+
+    - title: "Higher-Order SMT solving"
+      authors: "Haniel Barbosa, Andrew Reynolds, et al."
+      venue: "SMT@FLoC 2018"
+
+    - title: "Rewrites for SMT Solvers using Syntax-Guided Enumeration"
+      authors: "Andrew Reynolds, Haniel Barbosa, et al."
+      venue: "SMT@FLoC 2018"
+
+    - title: "Revisiting enumerative instantiation"
+      authors: "Andrew Reynolds, Haniel Barbosa, Pascal Fontaine"
+      venue: "TACAS 2018"
+
+- year: 2017
+  papers:
+    - title: "Language and proofs for higher-order SMT"
+      authors: "Haniel Barbosa, Jasmin Blanchette, et al."
+      venue: "PxTP 2017"
+
+    - title: "New techniques for instantiation and proof production in SMT solving"
+      authors: "Haniel Barbosa"
+      venue: "PhD thesis, 2017"
+
+    - title: "Scalable fine-grained proofs for formula processing"
+      authors: "Haniel Barbosa, Jasmin Blanchette, Pascal Fontaine"
+      venue: "CADE 2017"
+
+    - title: "Congruence closure with free variables"
+      authors: "Haniel Barbosa, Pascal Fontaine, Andrew Reynolds"
+      venue: "TACAS 2017"

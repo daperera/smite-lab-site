@@ -1,0 +1,40 @@
+<!-- <div class="publications">
+  {{ range site.Data.publications }}
+    <div class="pub-year">
+      <h3>{{ .year }}</h3>
+      <ul>
+        {{ range .papers }}
+          <li class="pub-item">
+            <strong>{{ .title }}</strong><br>
+            <span class="pub-authors">{{ .authors }}</span><br>
+            <span class="pub-venue"><em>{{ .venue }}</em></span>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+</div> -->
+
+<div class="publications">
+  {{ range sort site.Data.publications "year" "desc" }}
+    <div class="pub-row">
+      
+      <div class="pub-year">
+        {{ .year }}
+      </div>
+
+      <div class="pub-content">
+        <ul>
+          {{ range .papers }}
+            <li>
+              <strong>{{ .title }}</strong><br>
+              {{ .authors }}<br>
+              <em>{{ .venue }}</em>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </div>
+  {{ end }}
+</div>

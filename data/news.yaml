@@ -1,0 +1,50 @@
+- date: "2026-02"
+  items:
+    - text: "The extended version of the paper *Carcara: An efficient proof checker and elaborator for SMT proofs in the Alethe format* has been accepted to the STTT special issue on selected papers from TACAS'23."
+
+- date: "2025-12"
+  items:
+    - text: "Our paper *Hint-Based SMT Proof Reconstruction* has been accepted at TACAS'26."
+
+- date: "2025-11"
+  items:
+    - text: "Our paper *Reconstruction of SMT proofs with Lambdapi* has been accepted for publication at the *Acta Informatica* journal."
+    - text: "Our paper *Formalization of a Proof Calculus for Incremental Linearization for Satisfiability Modulo Nonlinear Arithmetic and Transcendental Functions* has been accepted at CPP'26."
+    - text: "Our paper *Producing Shorter Congruence Closure Proofs in a State-of-the-Art SMT Solver* has been accepted at VMCAI'26."
+
+- date: "2025-05"
+  items:
+    - text: "Our paper on the reconstruction of cvc5 Alethe proofs in Isabelle/HOL has been accepted at ITP'25."
+
+- date: "2025-04"
+  items:
+    - text: "Our paper on the Lean-SMT project has been accepted at CAV'25."
+
+- date: "2024-05"
+  items:
+    - text: "The paper *Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver* will appear at the PAAR 2024 workshop."
+    - text: "The paper *Satisfiability Modulo Theories: A Beginner's Tutorial* will appear at FM'24."
+
+- date: "2024-04"
+  items:
+    - text: "Kick-off of the DARPA-funded project: *PEGISUS - Proof EnGineering and Integration with Satisfiability modUlo theorieS*."
+
+- date: "2024-01"
+  items:
+    - text: "The paper on IsaRare will appear at TACAS'24."
+
+- date: "2023-10"
+  items:
+    - text: "Our article *Generating and Exploiting Automated Reasoning Proof Certificates* was published in the *Communications of the ACM*."
+
+- date: "2023-09"
+  items:
+    - text: "Tomaz Mascarenhas has successfully defended his MSc thesis. Congratulations, Tomaz!"
+
+- date: "2023-04"
+  items:
+    - text: "The paper *An Interactive SMT Tactic in Coq using Abductive Reasoning* will appear at LPAR'23."
+
+- date: "2023-01"
+  items:
+    - text: "The paper on Carcara will appear at TACAS'23."

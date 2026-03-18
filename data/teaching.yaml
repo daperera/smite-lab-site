@@ -1,0 +1,54 @@
+- title: Introduction to Computational Logic
+  links:
+    - label: "2026.1"
+      url: "https://ufmg-smite.github.io/2026.1-ilc/"
+    - label: "2025.2"
+      url: "https://hanielb.github.io/2025.2-ilc/"
+    - label: "2025.1"
+      url: "https://hanielb.github.io/2025.1-ilc/"
+    - label: "2024.1"
+      url: "https://hanielb.github.io/2024.1-ilc/"
+    - label: "2023.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2023-2/ilc"
+    - label: "2023.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2023-1/ilc"
+    - label: "2020.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2020-1/ilc"
+
+- title: Theory and Practice of SMT Solving
+  links:
+    - label: "2024.2"
+      url: "https://hanielb.github.io/2024.2-smt/"
+
+- title: Discrete Mathematics
+  links:
+    - label: "2024.2"
+      url: "https://hanielb.github.io/2024.2-matdis/"
+
+- title: Programming Languages
+  links:
+    - label: "2023.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2023-1/lp"
+    - label: "2022.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2022-2/lp"
+    - label: "2022.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2022-1/lp"
+    - label: "2021.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2021-2/lp"
+    - label: "2021.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2021-1/lp"
+    - label: "2020.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2020-2/lp"
+    - label: "2020.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2020-1/lp"
+
+- title: Formal Methods
+  links:
+    - label: "2025.2"
+      url: "https://hanielb.github.io/2025.2-fm/"
+    - label: "2023.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2023-2/fm"
+    - label: "2022.2"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2022-2/fm"
+    - label: "2021.1"
+      url: "https://hanielbarbosa.com/teaching/ufmg/2021-1/fm"
