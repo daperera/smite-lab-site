@@ -1,0 +1,8 @@
+<div class="team-grid">
+  {{ range site.Data.team }}
+    <div class="team-member">
+      <img src="{{ .image | relURL }}" alt="{{ .name }}">
+      <p>{{ .name }}<br><span>{{ .role }}</span></p>
+    </div>
+  {{ end }}
+</div>
