@@ -5,7 +5,7 @@ title: "Home"
 <span id="top"></span>
 
 <div class="hero">
-    <img src="img/logo/smite-logo-tag-1-cinza@2x.png" alt="SMITE Lab Logo">
+    <img src="img/logo/smite-logo-tag-1-cinza@2x.png" alt="SMITE Logo" style="opacity:1;">
 </div>
 
 
